@@ -1,0 +1,66 @@
+    1  pwd
+    2  pwd
+    3  ls
+    4  ls -a
+    5  cd ..
+    6  pwd
+    7  cd Тестирование/
+    8  mkdir 123test
+    9  cd 123test/
+   10  mkdir dir_1 dir_2 dir_3
+   11  mkdir dir_1/dir_1_1
+   12  rm di_2
+   13  rm dir_2
+   14  rm -rdir_2
+   15  rm -r dir_2
+   16  clear
+   17  history
+   18  touch .txt
+   19  cat > 2.txt
+   20  ls -la
+   21  cat 2.txt
+   22  pwd
+   23  mkdir folder1
+   24  cd folder1
+   25  mkdir folder1 folder2 folder3
+   26  pwd
+   27  cd folder1
+   28  pwd
+   29  touch 1.txt 2.txt 3.txt 1.json 2.json
+   30  mkdir dir1 dir2 dir3
+   31  ls
+   32  ls -l
+   33  ls -la
+   34  cat > 1.txt
+   35  cat > 2.txt
+   36  cd ..
+   37  mv folder1 floder2/folder1
+   38  mv folder1 folder2/folder1
+   39  mv folder3 folder2/folder2
+   40  cd folder2
+   41  cd folder1
+   42  cp 1.txt dir1/1.txt
+   43  cp 2.json dir1/2.json
+   44  finde [200~
+   45  fonde
+   46  finde
+   47  finde /d/qa/folder1/folder2/folder1/ 2.json
+   48  finde -name "2.json"
+   49  find -name "2.json"
+   50  cd ..
+   51  find -name "2.jason"
+   52  find -name "2.json"
+   53  cd folder1
+   54  grep Test1 1.txt
+   55  grep Test3 2.txt
+   56  grep -i test1 1.txt
+   57  cat 2.txt
+   58  tail 2.txt
+   59  tail 2.txt
+   60  tail -n 5 2.txt
+   61  less 3.txt
+   62  less -s 3.txt
+   63  date
+   64  cd dir3
+   65  pwd
+   66  history >> hist.txt
