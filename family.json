@@ -1,0 +1,18 @@
+{
+	"user_name": "Kristina",
+	"user_age": "not iimportant",
+	"family": {
+			"person_1":{
+				"husband": "Ruslan",
+				"age": "39",
+			},
+			"person_2": {
+				"son": "Lev",
+				"age": 12,
+			},
+			"person_3": {
+				"pet": "Max",
+				"age": 3,
+			}
+	}
+}
