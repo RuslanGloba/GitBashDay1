@@ -41,10 +41,6 @@
    41  cd folder1
    42  cp 1.txt dir1/1.txt
    43  cp 2.json dir1/2.json
-   44  finde [200~
-   45  fonde
-   46  finde
-   47  finde /d/qa/folder1/folder2/folder1/ 2.json
    48  finde -name "2.json"
    49  find -name "2.json"
    50  cd ..
@@ -64,3 +60,48 @@
    64  cd dir3
    65  pwd
    66  history >> hist.txt
+   67  cp hist.txt /d/qa/hist.txt
+   68  clear
+   69  history
+   70  history
+   71  curl http://162.55.220.72:5005/terminal-hw-request
+   72  history
+   73  history 70
+   74  histroy 1
+   75  history 1
+   76  history
+   77  history 15
+   78  history 10
+   79  history 0
+   80  clear
+   81  pwd
+   82  mkdir f1
+   83  cd f1
+   84  mkdir a1 a2 a3
+   85  cd a2
+   86  touch 1.txt 2.txt 3.txt 1.json 2.json
+   87  mkdir b1 b2 b3
+   88  ls -la
+   89  cat >> 1.txt
+   90  cd ..
+   91  ls -ls
+   92  cd a2
+   93  mv 1.txt b3/1.txt
+   94  mv 2.json b3/2.json
+   95  cp 1.json b2/1.json
+   96  cp 3.txt b2/1.txt
+   97  find ~/1.txt
+   98  find ~/b2 "1.txt"
+   99  find 2.txt
+  100  crul http://162.55.220.72:5005/terminal-hw-request
+  101  curl http://162.55.220.72:5005/terminal-hw-request
+  102  history
+  103  history 21
+  104  cd b2
+  105  ls -la
+  106  cat >> 1.json
+  107  ls
+  108  vim 1.json
+  109  cat 1.json
+  110  history
+  111  history >> gitbash.txt
